@@ -1,8 +1,8 @@
-# 🐍 Snake Game in C++
+# Snake Game in C++
 
 A simple console-based Snake game written in C++ using basic libraries and Windows console input handling.
 
-## 🎮 Features
+## Features
 
 - Classic snake gameplay in terminal
 - Keyboard controls (WASD)
@@ -13,7 +13,7 @@ A simple console-based Snake game written in C++ using basic libraries and Windo
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 | Key | Action |
 |-----|--------|
@@ -25,13 +25,13 @@ A simple console-based Snake game written in C++ using basic libraries and Windo
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
-### 🧑‍💻 Requirements
+### Requirements
 - Windows OS (uses `<windows.h>` and `_kbhit()`)
 - C++ compiler (e.g. g++, MSVC)
 
-### ▶️ Compile & run (g++ example)
+### Compile & run (g++ example)
 ```bash
 g++ snake.cpp -o snake
 snake.exe
